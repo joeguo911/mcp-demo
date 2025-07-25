@@ -2,6 +2,10 @@
 
 一个基于 Model Context Protocol (MCP) 的演示服务器，展示如何构建可与 AI 助手集成的自定义工具集。
 
+<a href="https://glama.ai/mcp/servers/@joeguo911/mcp-demo">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@joeguo911/mcp-demo/badge" alt="Demo Server MCP server" />
+</a>
+
 ## 🚀 项目简介
 
 Model Context Protocol (MCP) 是一个标准化协议，用于 AI 助手与外部工具和数据源的安全连接。本项目实现了一个功能完整的 MCP 服务器，提供数学计算和多语言问候功能，可无缝集成到支持 MCP 的 AI 客户端中（如 Claude Desktop、Cursor 等）。
